@@ -1,0 +1,3 @@
+Anotações e coisas importantes para se lembrar ao longo da jornada de estudos de Ti
+
+Link para ter acesso aos comandos do git https://comandosgit.github.io/
